@@ -14,7 +14,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>. 
  *
  */
-#include "rpi_wire.hpp"
+#include "rpi_duino.hpp"
 #include "broadcom.hpp"
 //#include <cstring>
 

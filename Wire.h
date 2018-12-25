@@ -15,5 +15,5 @@
  *
  */
 #include <algorithm>
-#include "rpi_wire.hpp"
+#include "rpi_duino.hpp"
 using std::min;
