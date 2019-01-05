@@ -19,7 +19,6 @@
 
 #include "broadcom.hpp"
 #include <cstdint>
-#include <boost/lexical_cast.hpp>
 #include <vector>
 
 class TwoWire final
